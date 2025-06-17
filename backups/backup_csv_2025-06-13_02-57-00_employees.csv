@@ -1,0 +1,66 @@
+NPK,Nama,Gender,Section,Line,Leader,Function,DateIn,Status,Tipe,Durasi
+970738,"Jaya B. Saida",Pria,"Comp Assy",1A,"Agus S",Operator,1997-07-15,Aktif,Tetap,
+990418,"Sapto Mulyono",Pria,"Comp Assy",1A,"Agus S",Operator,1999-04-08,Aktif,Tetap,
+990954,Soetrisno,Pria,"Comp Assy",1A,"Bogar B",Operator,1999-09-14,Aktif,Tetap,
+2000184,"Johan Aryanto",Pria,"Comp Assy",1B,"Isya A",Operator,2000-01-25,Aktif,Tetap,
+2000723,"Saeful Bahtiar",Pria,"Comp Assy",1B,"Ramdan S",Repair,2000-07-26,Aktif,Tetap,
+2030624,"Pandu Maulana",Pria,"Comp Assy",1B,"Ramdan S",Operator,2003-06-16,Aktif,Tetap,
+2100622,Karyanto,Pria,"Comp Assy",1A,"Bogar B",Operator,2010-05-24,Aktif,Tetap,
+2110261,"Dedi Yulianto",Pria,"Comp Assy",1B,"Isya A",Mizusumashi,2011-02-16,Aktif,Tetap,
+2110263,"Zendy Okta Putra P",Pria,"Comp Assy",1A,"Bogar B",Operator,2011-02-16,Aktif,Tetap,
+2110838,"Indah Suraedah",Wanita,"Comp Assy",1A,"Bogar B",Operator,2011-07-02,Aktif,Tetap,
+2111392,"Panca Norvi",Pria,"Comp Assy",1B,"Ramdan S",Operator,2011-12-05,Aktif,Tetap,
+2111393,"Ardi Wibowo",Pria,"Comp Assy",1A,"Bogar B",Repair,2011-12-05,Aktif,Tetap,
+2111394,"Ahmad Faizin",Pria,"Comp Assy",1B,"Ramdan S",Operator,2011-12-05,Aktif,Tetap,
+2111423,"Andri Saputra",Pria,"Comp Assy",1B,"Ramdan S",Operator,2011-12-16,Aktif,Tetap,
+2120490,"Nanu Mardiansyah",Pria,"Comp Assy",1B,"Ramdan S",Operator,2012-04-16,Aktif,Tetap,
+2120492,Etikawati,Wanita,"Comp Assy",1B,"Ramdan S",Operator,2012-04-16,Aktif,Tetap,
+2120544,"Isyakariman Robbani",Pria,"Comp Assy",1B,"Ramdan S",Inspection,2012-04-18,Aktif,Tetap,
+2120546,"Agung Adi Wibawa",Pria,"Comp Assy",1A,"Agus S",Operator,2012-04-18,Aktif,Tetap,
+2120575,"Muhammad Ibrohim",Pria,"Comp Assy",1A,"Bogar B",Operator,2012-04-20,Aktif,Tetap,
+2120589,"Andra Rizkia",Pria,"Comp Assy",1B,"Isya A",Operator,2012-04-30,Aktif,Tetap,
+2131276,"Henry Susilo",Pria,"Comp Assy",1A,"Bogar B",Operator,2013-10-22,Aktif,Tetap,
+2140444,Setiyono,Pria,"Comp Assy",1A,"Bogar B",Operator,2014-02-26,Aktif,Tetap,
+2141236,"Muhazyr Arapat",Pria,"Comp Assy",1A,"Bogar B",Operator,2014-08-05,Aktif,Tetap,
+2141783,"Imannuel Ari P",Pria,"Comp Assy",1B,"Ramdan S",Operator,2014-10-22,Aktif,Tetap,
+2150179,"Muhammad Yusuf",Pria,"Comp Assy",1A,"Bogar B",Repair,2015-01-20,Aktif,Tetap,
+2150619,"Dhimas Angga B",Pria,"Comp Assy",1B,"Ramdan S",Operator,2015-05-13,Aktif,Tetap,
+2150665,"Salim Sahab",Pria,"Comp Assy",1B,"Ramdan S",Repair,2015-05-18,Aktif,Tetap,
+2150667,"M Hasbieallah",Pria,"Comp Assy",1A,"Bogar B",Operator,2025-05-18,Aktif,Tetap,
+2150732,"Rachmat Aprilianto",Pria,"Comp Assy",1A,"Bogar B",Operator,2015-06-05,Aktif,Tetap,
+2171254,"Idham Nur Rizki",Pria,"Comp Assy",1B,"Ramdan S",Operator,2017-07-17,Aktif,Tetap,
+2230653,"Silvia Nurmala A",Wanita,"Comp Assy",1B,"Ramdan S",Operator,2023-09-23,Aktif,Kontrak,36
+2230710,"Trisna Mukti Sanjaya",Pria,"Comp Assy",1B,"Ramdan S",Operator,2023-05-09,Aktif,Kontrak,24
+2230835,"Muhammad Heral",Pria,"Comp Assy",1B,"Ramdan S",Operator,2023-06-26,Aktif,Kontrak,24
+2230837,"Indry Rose Rosalina",Wanita,"Comp Assy",1A,"Agus S",Operator,1999-04-08,Aktif,Kontrak,24
+2230840,"Shafa Endah Berlian",Wanita,"Comp Assy",1A,"Bogar B",Operator,2023-06-26,Aktif,Kontrak,24
+2230932,"Tatas Panggalih",Pria,"Comp Assy",1A,"Agus S",Operator,2023-07-17,Aktif,Kontrak,24
+2231247,"Raihan Riotama",Pria,"Comp Assy",1B,"Ramdan S",Operator,2023-12-04,Aktif,Kontrak,24
+2231274,"Dewi Hiyang Bathari",Wanita,"Comp Assy",1B,"Ramdan S",Operator,2023-02-13,Aktif,Kontrak,24
+2231295,"Irfan Auliya F",Pria,"Comp Assy",1A,"Bogar B",Operator,2013-12-11,Aktif,Kontrak,24
+2231305,"Willy Hidayat",Pria,"Comp Assy",1A,"Bogar B",Operator,2023-12-13,Aktif,Kontrak,24
+2231325,"Muhammad Saputra",Pria,"Comp Assy",1A,"Bogar B",Operator,2023-12-13,Aktif,Kontrak,24
+2231328,"Randi Adiyaksa",Pria,"Comp Assy",1B,Kirwanto,Inspection,2023-12-13,Aktif,Kontrak,24
+2231329,"Saptiyan Nurbiyanto",Pria,"Comp Assy",1B,"Isya A",Operator,2023-12-13,Aktif,Kontrak,24
+2231330,"Satrio Nur Cholis",Pria,"Comp Assy",1B,"Ramdan S",Operator,2023-12-13,Aktif,Kontrak,24
+2231336,"Muhammad Hildan H",Pria,"Comp Assy",1A,"Bogar B",Operator,2023-12-13,Aktif,Kontrak,24
+2231383,"Agung Aryo Kusumo",Pria,"Comp Assy",1A,"Bogar B",Operator,2023-12-14,Aktif,Kontrak,24
+2231384,"Akbar Barokah",Pria,"Comp Assy",1A,"Bogar B",Operator,2023-12-14,Aktif,Kontrak,24
+2240159,"Inggit Maidha N",Wanita,"Comp Assy",1B,"Ramdan S",Operator,2024-01-08,Aktif,Kontrak,24
+2240242,"Rafi Alwin Fachry",Pria,"Comp Assy",1A,"Bogar B",Operator,2024-01-16,Aktif,Kontrak,24
+2240307,"Nanda Ferdiansyah",Pria,"Comp Assy",1A,"Bogar B",Operator,2024-02-02,Aktif,Kontrak,24
+2240495,"Elsa Safitri",Wanita,"Comp Assy",1B,"Ramdan S",Operator,2024-06-11,Aktif,Kontrak,24
+2240501,"Ramizah Marwah A",Wanita,"Comp Assy",1A,"Bogar B",Operator,2024-06-11,Aktif,Kontrak,24
+2241150,Adrian,Pria,"Comp Assy",1A,"Bogar B",Operator,2024-11-15,Aktif,Kontrak,12
+2241151,"Ahmad Baehaki",Pria,"Comp Assy",1A,"Agus S",Operator,2024-11-15,Aktif,Kontrak,12
+2241154,Supriyatna,Pria,"Comp Assy",1B,"Ramdan S",Operator,2024-11-15,Aktif,Kontrak,12
+2241155,"Zul Pikar Nasution",Pria,"Comp Assy",1B,"Isya A",Operator,2024-11-15,Aktif,Kontrak,12
+2241159,"Naura Salwa Syahira",Wanita,"Comp Assy",1A,"Bogar B",Operator,2024-11-15,Aktif,Kontrak,12
+2241253,"Bagus Satriyo",Pria,"Comp Assy",1A,"Bogar B",Operator,2024-12-18,Aktif,Kontrak,12
+2241263,"Acep Rizky Kurniawan",Pria,"Comp Assy",1B,"Ramdan S",Operator,2024-04-18,Aktif,Kontrak,24
+2241269,"M Raikhan Alfarizi",Pria,"Comp Assy",1B,"Ramdan S",Operator,2024-12-18,Aktif,Kontrak,12
+2250179,"Dio Haldy Pratama",Pria,"Comp Assy",1A,"Bogar B",Operator,2025-01-14,Aktif,Kontrak,12
+2250269,"Radit Pamungkas Wahyu Aji",Pria,"Comp Assy",1B,"Ramdan S",Operator,2025-02-06,Aktif,Kontrak,12
+2250289,"Muhammad Iqbal",Pria,"Comp Assy",1B,"Ramdan S",Mizusumashi,2025-02-13,Aktif,Kontrak,12
+2250312,"Muhammad Wisnu Hadi",Pria,"Comp Assy",1B,"Ramdan S",Operator,2025-03-03,Aktif,Kontrak,12
+2250574,"Garda Madani Sopian",Pria,"Comp Assy",1B,"Ramdan S",Operator,2025-05-20,Aktif,Kontrak,12
